@@ -53,7 +53,7 @@ This repository contains a comprehensive pipeline for detecting multiple thoraci
 
 ## 📂 Input Files
 
-All required files are mentioned inside each notebook. Download them using the shared [Google Drive folder](#) ([🔗 link should be added here by you](https://drive.google.com/drive/folders/1dzG3DnoCXYDNkSfDaNx1_73T-h-2tvxl?usp=drive_link)).
+All required files are mentioned inside each notebook. Download them using the shared [[Google Drive folder](https://drive.google.com/drive/folders/1dzG3DnoCXYDNkSfDaNx1_73T-h-2tvxl?usp=drive_link)](#).
 
 *Note: For ⁠ Feature_extractor.ipynb ⁠, you must manually download the **NIH ChestX-ray14 dataset* from the official NIH website.
 
